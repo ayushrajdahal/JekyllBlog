@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ayush Raj"
+title                    : "Ayush Raj Dahal"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ayush Raj Dahal"
@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Ayush Raj Dahal"
   avatar           : "/assets/images/dp.jpeg"
-  bio              : "I bring ideas to life."
-  location         : "Nepal"
+  bio              : "ML & Data Science"
+  location         : "Kathmandu, Nepal"
   email            :
   links:
     - label: "Email"
@@ -227,7 +227,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kathmandu # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)

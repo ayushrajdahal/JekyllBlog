@@ -1,13 +1,12 @@
 ---
 permalink: /about/
 title: "About"
-classes: wide
 excerpt: Learn about me, my current endeavors, and the motive behind this personal blog.
 ---
 
 
+## About Me
 
-**About Me**  
 I am a High School graduate from Nepal who loves bringing ideas to life. I am a Machine Learning practitioner, Data Analyst, and an amateur Web/App Developer.
 
 I am currently a Data Science Fellow at Code for Nepal and Deep Learning Researcher at Learn by Research.
