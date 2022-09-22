@@ -6,7 +6,7 @@ excerpt: Learn about me, my current endeavors, and the motive behind this person
 ---
 
 
-I am a recent High School graduate from Nepal who loves bringing ideas to life. I am a Machine Learning practitioner, Data Analyst, and Backend Web Developer.
+I am a Machine Learning practitioner, Data Analyst, and Backend Web Developer from Nepal who loves bringing ideas to life.
 
 Apart from Data Science and Machine Learning, I am also passionate about HCI (Human-Computer Interaction) and have worked on two HCI projects ([SeeingBox](https://github.com/dhaydoo/SeeingBox) and [Project Saas](https://projectsaas.info)) related to Blind Assistance and Healthcare respectively.
 
