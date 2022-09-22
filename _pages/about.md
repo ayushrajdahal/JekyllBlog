@@ -1,15 +1,14 @@
 ---
 permalink: /about/
 title: "About"
+classes: wide
 excerpt: Learn about me, my current endeavors, and the motive behind this personal blog.
 ---
 
 
-**About Me**
+I am a recent High School graduate from Nepal who loves bringing ideas to life. I am a Machine Learning practitioner, Data Analyst, and a Web/App Developer.
 
-I am a recent High School graduate from Nepal who loves bringing ideas to life. I am a Machine Learning practitioner, Data Analyst, and and a Web/App Developer.
-
-Apart from Data Science and Machine Learning, I am also passionate about HCI (Human-Computer Interaction) and have worked on two HCI projects ([Saas](https://projectsaas.info) and [SeeingBox](https://github.com/dhaydoo/SeeingBox)) related to Healthcare and Blind Assistance respectively.
+Apart from Data Science and Machine Learning, I am also passionate about HCI (Human-Computer Interaction) and have worked on two HCI projects ([SeeingBox](https://github.com/dhaydoo/SeeingBox) and [Project Saas](https://projectsaas.info)) related to Blind Assistance and Healthcare respectively.
 
 I am currently a Data Science Fellow at [Code for Nepal](https://codefornepal.org/) and Deep Learning Researcher at [Learn by Research](https://in.linkedin.com/company/learnbyresearch).
 
